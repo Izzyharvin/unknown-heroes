@@ -17,7 +17,7 @@ https://unknownheroes.herokuapp.com/
 - Whichever character you choose once you beat the enemy your character will level up and the stats will keep leveling up until.
 
 Creator of App:
-Micheal
-Israel
-Caleb
+Micheal,
+Israel,
+Caleb,
 Bioandventure
